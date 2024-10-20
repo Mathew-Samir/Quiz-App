@@ -1,0 +1,1106 @@
+{
+  "easyQuestionsChemistry": [
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "CO2", "H2"],
+        "answer": 0,
+        "level": "easy"
+    },
+    {
+        "question": "What is the pH level of pure water?",
+        "options": ["0", "7", "14", "10"],
+        "answer": 1,
+        "level": "easy"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Osmium", "Oxygen", "Gold", "Iron"],
+        "answer": 1,
+        "level": "easy"
+    },
+    {
+        "question": "What is the main gas found in the air we breathe?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": 2,
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "answer": 0,
+        "level": "easy"
+    },
+    {
+        "question": "What is the atomic number of hydrogen?",
+        "options": ["1", "2", "3", "4"],
+        "answer": 0,
+        "level": "easy"
+    },
+    {
+        "question": "Which part of the atom has a positive charge?",
+        "options": ["Electron", "Neutron", "Proton", "Nucleus"],
+        "answer": 2,
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "answer": 0,
+        "level": "easy"
+    },
+    {
+        "question": "Which gas is produced when vinegar and baking soda react?",
+        "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+        "answer": 1,
+        "level": "easy"
+    },
+    {
+        "question": "Which element is a liquid at room temperature?",
+        "options": ["Mercury", "Oxygen", "Iron", "Helium"],
+        "answer": 0,
+        "level": "easy"
+    },
+    {
+        "question": "What is the process of turning a liquid into a gas called?",
+        "options": ["Condensation", "Evaporation", "Sublimation", "Freezing"],
+        "answer": 1,
+        "level": "easy"
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "options": ["Ethane", "Methane", "Propane", "Butane"],
+        "answer": 1,
+        "level": "easy"
+    },
+    {
+        "question": "What type of bond involves the sharing of electron pairs?",
+        "options" : ["Ionic Bond", "Covalent Bond", "Metallic Bond", "Hydrogen Bond"],
+        "answer"  : 1,
+        "level"   : "easy"
+    },
+    {
+        "question": "Which element is essential for respiration in humans?",
+        "options" : ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+        "answer"  : 2,
+        "level"   : "easy"
+    },
+    {
+        "question": "What is the chemical formula for glucose?",
+        "options" : ["C6H12O6", "C12H22O11", "CH4", "C2H5OH"],
+        "answer"  : 0,
+        "level"   : "easy"
+    },
+    {
+        "question": "What type of reaction occurs when an acid and a base combine?",
+        "options" : ["Synthesis", "Decomposition", "Neutralization", "Combustion"],
+        "answer"  : 2,
+        "level"   : "easy"
+    },
+    {
+        "question": "What is the periodic table element with the symbol 'He'?",
+        "options" : ["Hydrogen", "Helium", "Hafnium", "Holmium"],
+        "answer"  : 1,
+        "level"   : "easy"
+    },
+    {
+        "question": "What is the primary gas that plants use during photosynthesis?",
+        "options" : ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer"  : 1,
+        "level"   : "easy"
+    },
+    {
+        "question": "What type of bond forms between two metals?",
+        "options" : ["Ionic Bond", "Covalent Bond", "Metallic Bond", "Hydrogen Bond"],
+        "answer"  : 2,
+        "level"   : "easy"
+    },
+    {
+        "question": "What is the main product of the combustion of hydrocarbons?",
+        "options" : ["Carbon Monoxide", "Water", "Carbon Dioxide", "Oxygen"],
+        "answer"  : 2,
+        "level"   : "easy"
+    }
+    ],
+
+
+
+  "intermediateQuestionsChemistry": [
+    {
+      "question": "Which gas is commonly used in balloons to make them float?",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the molar mass of water (H2O)?",
+      "options": ["18 g/mol", "20 g/mol", "16 g/mol", "22 g/mol"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What type of reaction is characterized by the loss of electrons?",
+      "options": ["Reduction", "Oxidation", "Neutralization", "Precipitation"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which law states that the volume of a gas is inversely proportional to its pressure at constant temperature?",
+      "options": ["Boyle's Law", "Charles's Law", "Avogadro's Law", "Dalton's Law"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the balanced equation for the combustion of methane (CH4)?",
+      "options": ["CH4 + 2O2 → CO2 + 2H2O", "CH4 + O2 → CO2 + H2O", "CH4 + 2O2 → 2CO + 2H2O", "CH4 + O2 → CO2 + 2H2O"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "In the periodic table, which group contains the noble gases?",
+      "options": ["Group 18", "Group 1", "Group 17", "Group 2"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the electron configuration of oxygen?",
+      "options": ["1s² 2s² 2p⁴", "1s² 2s² 2p⁶", "1s² 2s² 2p²", "1s² 2p⁴"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the principle behind chromatography?",
+      "options": ["Solubility differences", "Boiling points", "Electronegativity differences", "Oxidation states"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which element is the most electronegative?",
+      "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the primary function of a catalyst in a chemical reaction?",
+      "options": ["Increase the equilibrium constant", "Lower the activation energy", "Shift the reaction equilibrium", "Increase the reaction temperature"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the empirical formula of a compound that contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
+      "options": ["CH2O", "C2H4O2", "C6H12O6", "CHO"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which principle states that two electrons in the same orbital must have opposite spins?",
+      "options": ["Aufbau Principle", "Hund's Rule", "Pauli Exclusion Principle", "Heisenberg Uncertainty Principle"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the product formed when hydrochloric acid reacts with sodium hydroxide?",
+      "options": ["Water and Sodium Chloride", "Hydrogen and Sodium Chloride", "Sodium and Water", "Sodium Chloride and Hydrogen"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What type of bond forms between two atoms with a large difference in electronegativity?",
+      "options": ["Ionic Bond", "Covalent Bond", "Metallic Bond", "Hydrogen Bond"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which element has the highest first ionization energy?",
+      "options": ["Helium", "Fluorine", "Neon", "Oxygen"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "In which type of chemical bond are electrons transferred from one atom to another?",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the name of the process where a solid turns directly into a gas?",
+      "options": ["Evaporation", "Sublimation", "Condensation", "Deposition"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which element has the highest atomic number?",
+      "options": ["Uranium", "Plutonium", "Oganesson", "Francium"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the geometry of methane (CH4) according to VSEPR theory?",
+      "options": ["Tetrahedral", "Trigonal Planar", "Linear", "Bent"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which is the strongest type of intermolecular force in water (H2O)?",
+      "options": ["Dipole-dipole interaction", "London dispersion forces", "Hydrogen bonding", "Ionic bonding"],
+      "answer": 2,
+      "level": "intermediate"
+    }
+  ],
+
+
+
+  "difficultQuestionsChemistry": [
+    {
+      "question": "Which quantum number determines the orientation of an atomic orbital in space?",
+      "options": ["Principal quantum number (n)", "Angular momentum quantum number (l)", "Magnetic quantum number (m)", "Spin quantum number (s)"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the standard enthalpy change (ΔH°) for the combustion of one mole of methane (CH4)?",
+      "options": ["-890 kJ/mol", "-560 kJ/mol", "-500 kJ/mol", "-980 kJ/mol"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which type of hybridization occurs in the carbon atoms of ethyne (C2H2)?",
+      "options": ["sp", "sp2", "sp3", "sp3d"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which principle explains why no two electrons in the same atom can have identical sets of four quantum numbers?",
+      "options": ["Pauli Exclusion Principle", "Hund's Rule", "Heisenberg Uncertainty Principle", "Aufbau Principle"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "How many unpaired electrons are present in a ground-state nitrogen (N) atom?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "Which factor does NOT affect the rate of a chemical reaction?",
+      "options": ["Catalyst", "Temperature", "Equilibrium constant", "Concentration of reactants"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the bond angle in the SF6 molecule according to VSEPR theory?",
+      "options": ["90°", "109.5°", "120°", "180°"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which of the following molecules exhibits an expanded octet?",
+      "options": ["PCl5", "CH4", "H2O", "NH3"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "For a reaction at equilibrium, which of the following changes will affect the equilibrium constant (K)?",
+      "options": ["Changing the pressure", "Changing the temperature", "Adding a catalyst", "Changing the concentration of products"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the correct order of increasing acidity for the following compounds: HCl, H2O, NH3, CH4?",
+      "options": ["CH4 < NH3 < H2O < HCl", "HCl < NH3 < H2O < CH4", "H2O < NH3 < CH4 < HCl", "NH3 < H2O < HCl < CH4"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which type of interaction primarily stabilizes the secondary structure of proteins, such as alpha helices and beta sheets?",
+      "options": ["Disulfide bonds", "Hydrogen bonds", "Ionic interactions", "Hydrophobic interactions"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the oxidation state of chromium in potassium dichromate (K2Cr2O7)?",
+      "options": ["+3", "+5", "+6", "+7"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the pKa of acetic acid (CH3COOH)?",
+      "options": ["4.76", "1.96", "7.00", "9.25"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "How many sigma (σ) and pi (π) bonds are present in a molecule of ethene (C2H4)?",
+      "options": ["5 σ and 1 π", "4 σ and 2 π", "6 σ and 1 π", "5 σ and 2 π"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the correct IUPAC name for the compound with the formula [Co(NH3)4Cl2]Cl?",
+      "options": ["Tetraamminedichlorocobalt(III) chloride", "Tetrachlorotriamminocobalt(II) chloride", "Dichlorotetraamminecobalt(III) chloride", "Hexachlorocobalt(III) chloride"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which of the following ions is colorless in solution due to the absence of unpaired d-electrons?",
+      "options": ["MnO4⁻", "Fe³⁺", "Zn²⁺", "Cu²⁺"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the Ksp expression for the dissociation of calcium phosphate (Ca3(PO4)2) in water?",
+      "options": ["Ksp = [Ca²⁺]³[PO4³⁻]²", "Ksp = [Ca²⁺][PO4³⁻]", "Ksp = [Ca²⁺]²[PO4³⁻]³", "Ksp = [Ca²⁺]³[PO4³⁻]"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which of the following is an example of a zero-order reaction?",
+      "options": ["Decomposition of hydrogen peroxide", "Catalytic decomposition of ammonia", "Photochemical decomposition of HI", "Radioactive decay of uranium"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "In a galvanic cell, which electrode undergoes reduction?",
+      "options": ["Anode", "Cathode", "Salt bridge", "Electrolyte"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "Which of the following methods can be used to determine the molar mass of a volatile liquid?",
+      "options": ["Mass spectrometry", "Osmometry", "Dumas method", "Electrolysis"],
+      "answer": 2,
+      "level": "difficult"
+    }
+  ],
+
+
+
+  "easyQuestionsPhysics": [
+    {
+      "question": "What is the unit of force in the International System of Units (SI)?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "Which of the following is a fundamental force of nature?",
+      "options": ["Friction", "Gravity", "Air resistance", "Tension"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": ["9.8 m/s²", "10 m/s²", "9.81 m/s²", "8.9 m/s²"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "What does a speedometer measure?",
+      "options": ["Distance", "Acceleration", "Speed", "Time"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "What is the boiling point of water at standard atmospheric pressure?",
+      "options": ["100°C", "90°C", "110°C", "80°C"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "Which type of energy is stored in an object due to its height?",
+      "options": ["Kinetic energy", "Potential energy", "Thermal energy", "Chemical energy"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the primary source of energy for the Earth?",
+      "options": ["The Moon", "The Sun", "The stars", "The Earth itself"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the formula to calculate the force acting on an object?",
+      "options": ["F = ma", "F = mv", "F = m/v", "F = m + a"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "options": ["Distance", "Speed", "Displacement", "Mass"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "3,000 km/s"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "In which state of matter do particles have the most kinetic energy?",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "answer": 3,
+      "level": "easy"
+    },
+    {
+      "question": "What type of simple machine is a lever?",
+      "options": ["Inclined plane", "Wheel and axle", "Pulley", "Class 1 lever"],
+      "answer": 3,
+      "level": "easy"
+    },
+    {
+      "question": "What is the primary force that pulls objects towards the center of the Earth?",
+      "options": ["Friction", "Magnetism", "Gravity", "Air resistance"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "What is the temperature at which all molecular motion stops?",
+      "options": ["0°C", "0 K", "-273°C", "-273 K"],
+      "answer": 3,
+      "level": "easy"
+    },
+    {
+      "question": "What is the relationship between wavelength and frequency in a wave?",
+      "options": ["Inversely proportional", "Directly proportional", "Independent", "Exponentially proportional"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "What is the main function of a circuit breaker?",
+      "options": ["To increase voltage", "To decrease resistance", "To protect from overload", "To store energy"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "Which law states that an object at rest will remain at rest unless acted upon by an external force?",
+      "options": ["Newton's first law", "Newton's second law", "Newton's third law", "Law of conservation of energy"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "What is the SI unit of energy?",
+      "options": ["Joule", "Calorie", "Watt", "Newton"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "Which of the following colors of light has the shortest wavelength?",
+      "options": ["Red", "Green", "Blue", "Violet"],
+      "answer": 3,
+      "level": "easy"
+    },
+    {
+      "question": "What does a thermometer measure?",
+      "options": ["Pressure", "Volume", "Temperature", "Mass"],
+      "answer": 2,
+      "level": "easy"
+    }
+  ],
+
+
+
+    "intermediateQuestionsPhysics": [
+    {
+      "question": "A car accelerates from 0 to 60 mph in 5 seconds. Calculate its average acceleration.",
+      "options": ["0.0 m/s²", "2.0 m/s²", "4.0 m/s²", "8.0 m/s²"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "A 500 kg object is lifted 2 meters above the ground. Calculate the gravitational potential energy gained.",
+      "options": ["0.0 J", "1000 J", "2000 J", "3000 J"],
+      "answer": 1000,
+      "level": "intermediate"
+    },
+    {
+      "question": "A 0.7 kg ball is dropped from a height of 1.5 meters. Calculate its final velocity upon impact with the ground, assuming air resistance is negligible.",
+      "options": ["0.0 m/s", "3.7 m/s", "5.0 m/s", "7.0 m/s"],
+      "answer": 3,
+      "level": "intermediate"
+    },
+    {
+      "question": "A 60 W light bulb is connected to a 120 V power source. Calculate the current flowing through the bulb.",
+      "options": ["0.5 A", "0.6 A", "0.7 A", "0.8 A"],
+      "answer": 0.5,
+      "level": "intermediate"
+    },
+    {
+      "question": "A 2.0 mF capacitor is charged to 10 V. Calculate the energy stored in the capacitor.",
+      "options": ["0.1 J", "0.5 J", "1.0 J", "2.0 J"],
+      "answer": 0.1,
+      "level": "intermediate"
+    },
+    {
+      "question": "A wave has a frequency of 500 Hz and a wavelength of 0.6 meters. Calculate its speed.",
+      "options": ["300 m/s", "500 m/s", "600 m/s", "800 m/s"],
+      "answer": 300,
+      "level": "intermediate"
+    },
+    {
+      "question": "A 0.8 kg object is moving at 4.0 m/s. Calculate its kinetic energy.",
+      "options": ["0.0 J", "6.4 J", "12.8 J", "16.0 J"],
+      "answer": 6.4,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the total resistance in a circuit with three resistors in series of 2 Ω, 3 Ω, and 5 Ω?",
+      "options": ["10 Ω", "8 Ω", "5 Ω", "3 Ω"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "If an object has a mass of 2 kg and is traveling at a velocity of 3 m/s, what is its momentum?",
+      "options": ["2 kg·m/s", "3 kg·m/s", "6 kg·m/s", "9 kg·m/s"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the period of a wave if its frequency is 2 Hz?",
+      "options": ["0.25 s", "0.5 s", "1 s", "2 s"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "A 1.5 kg object is moving with a speed of 10 m/s. Calculate its kinetic energy.",
+      "options": ["0 J", "75 J", "100 J", "150 J"],
+      "answer": 75,
+      "level": "intermediate"
+    },
+    {
+      "question": "A metal rod expands when heated. What is this phenomenon called?",
+      "options": ["Contraction", "Expansion", "Thermal expansion", "Heat transfer"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which law states that energy cannot be created or destroyed?",
+      "options": ["Newton's First Law", "Conservation of Energy", "Hooke's Law", "Bernoulli's Principle"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the frequency of a wave with a wavelength of 0.5 m and speed of 340 m/s?",
+      "options": ["170 Hz", "340 Hz", "680 Hz", "1020 Hz"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "In a vacuum, what is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s", "3,000 km/s"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the term for the amount of matter in an object?",
+      "options": ["Weight", "Mass", "Volume", "Density"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What type of energy is associated with the motion of an object?",
+      "options": ["Potential energy", "Kinetic energy", "Thermal energy", "Nuclear energy"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "Which of the following quantities is a scalar?",
+      "options": ["Velocity", "Acceleration", "Displacement", "Speed"],
+      "answer": 3,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the gravitational force between two 10 kg masses that are 2 meters apart?",
+      "options": ["0 N", "2 N", "5 N", "25 N"],
+      "answer": 5,
+      "level": "intermediate"
+    },
+    {
+      "question": "A circuit contains a 9V battery and a resistor of 3Ω. What is the current flowing through the circuit?",
+      "options": ["1 A", "2 A", "3 A", "4 A"],
+      "answer": 3,
+      "level": "intermediate"
+    },
+    {
+      "question": "If the wavelength of a wave is doubled, what happens to its frequency?",
+      "options": ["It doubles", "It halves", "It stays the same", "It quadruples"],
+      "answer": 1,
+      "level": "intermediate"
+    }
+  ],
+
+
+
+    "difficultQuestionsPhysics": [
+    {
+      "question": "What is the minimum energy required to remove an electron from a hydrogen atom in its ground state?",
+      "options": ["13.6 eV", "1.6 eV", "0.54 eV", "3.4 eV"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "In a double-slit experiment, if the distance between the slits is halved while keeping the wavelength constant, what happens to the fringe separation?",
+      "options": ["Halves", "Doubles", "Remains the same", "Increases by a factor of four"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "A block of mass 5 kg is sliding down a frictionless incline of 30 degrees. What is its acceleration?",
+      "options": ["4.9 m/s²", "9.8 m/s²", "3.9 m/s²", "5.0 m/s²"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the relativistic mass of an object moving at 0.8c, where c is the speed of light?",
+      "options": ["1.25m", "0.6m", "0.8m", "1.44m"],
+      "answer": 3,
+      "level": "difficult"
+    },
+    {
+      "question": "If the radius of a circular path is halved, what happens to the centripetal acceleration of an object moving at a constant speed?",
+      "options": ["It doubles", "It halves", "It quadruples", "It remains the same"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which of the following particles has the largest mass?",
+      "options": ["Electron", "Proton", "Neutron", "Alpha particle"],
+      "answer": 3,
+      "level": "difficult"
+    },
+    {
+      "question": "In an LCR circuit at resonance, what is the phase difference between the voltage and the current?",
+      "options": ["0 degrees", "90 degrees", "180 degrees", "270 degrees"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the formula for the period of a simple pendulum in terms of its length and gravitational acceleration?",
+      "options": ["T = 2π√(L/g)", "T = 2πL/g", "T = L/2πg", "T = √(g/L)"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the electric field strength at a distance of 0.5 m from a point charge of +3 µC?",
+      "options": ["5400 N/C", "1800 N/C", "7200 N/C", "3600 N/C"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the critical angle for total internal reflection from glass to air, given the refractive index of glass is approximately 1.5?",
+      "options": ["30 degrees", "48.6 degrees", "60 degrees", "90 degrees"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "In quantum mechanics, what principle states that the position and momentum of a particle cannot both be precisely determined simultaneously?",
+      "options": ["Heisenberg's Uncertainty Principle", "Pauli Exclusion Principle", "Quantum Superposition", "Wave-Particle Duality"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "Which of the following is NOT a consequence of special relativity?",
+      "options": ["Time dilation", "Length contraction", "Simultaneity", "Mass-energy equivalence"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the escape velocity for an object on the surface of the Earth?",
+      "options": ["7.9 km/s", "11.2 km/s", "9.8 km/s", "12.4 km/s"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "In a nuclear reaction, what happens to the mass of the reactants compared to the mass of the products?",
+      "options": ["Remains the same", "Increases", "Decreases", "Varies based on the reaction"],
+      "answer": 2,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the phenomenon called when a wave changes direction as it passes from one medium to another?",
+      "options": ["Diffraction", "Refraction", "Reflection", "Interference"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the angular momentum of a particle of mass 2 kg moving in a circular path of radius 1 m at a speed of 3 m/s?",
+      "options": ["3 kg·m²/s", "6 kg·m²/s", "9 kg·m²/s", "12 kg·m²/s"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "In a transformer, if the primary coil has 100 turns and the secondary coil has 50 turns, what is the voltage ratio if the input voltage is 240 V?",
+      "options": ["120 V", "240 V", "480 V", "600 V"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the change in entropy when 1 kg of ice melts at 0 degrees Celsius?",
+      "options": ["0 J/K", "333.5 J/K", "1000 J/K", "2260 J/K"],
+      "answer": 1,
+      "level": "difficult"
+    }
+  ],
+
+
+
+    "easyQuestionsMath": [
+    {
+      "question": "What is 5 + 3?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "What is the value of 12 - 4?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "What is 9 x 3?",
+      "options": ["27", "28", "26", "30"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "What is 15 ÷ 3?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "What is the next number in the sequence: 2, 4, 6, ___?",
+      "options": ["7", "8", "9", "10"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the value of 3²?",
+      "options": ["6", "9", "12", "15"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the perimeter of a rectangle with length 4 and width 3?",
+      "options": ["12", "14", "10", "8"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "What is 25% of 200?",
+      "options": ["25", "50", "75", "100"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the value of π (pi) approximately equal to?",
+      "options": ["3.14", "2.71", "1.41", "3.00"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "What is the area of a square with a side length of 5?",
+      "options": ["20", "25", "30", "15"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the sum of the angles in a triangle?",
+      "options": ["180 degrees", "360 degrees", "90 degrees", "270 degrees"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "If a = 2 and b = 3, what is a + b?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is 10 - 2 + 5?",
+      "options": ["7", "12", "13", "8"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the next prime number after 5?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is the square root of 16?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "How many sides does a pentagon have?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is 8 + 6?",
+      "options": ["12", "13", "14", "15"],
+      "answer": 2,
+      "level": "easy"
+    },
+    {
+      "question": "What is the value of 7 × 0?",
+      "options": ["0", "1", "7", "14"],
+      "answer": 0,
+      "level": "easy"
+    },
+    {
+      "question": "What is 50 - 20?",
+      "options": ["20", "30", "40", "50"],
+      "answer": 1,
+      "level": "easy"
+    },
+    {
+      "question": "What is 2 + 2 x 2?",
+      "options": ["4", "6", "8", "10"],
+      "answer": 1,
+      "level": "easy"
+    }
+  ],
+
+
+
+    "intermediateQuestionsMath": [
+    {
+      "question": "What is the value of x in the equation 3x + 5 = 20?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the area of a triangle with a base of 10 and a height of 5?",
+      "options": ["25", "50", "15", "30"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "If the function f(x) = 2x + 3, what is f(4)?",
+      "options": ["8", "9", "11", "12"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the slope of the line represented by the equation y = 4x - 7?",
+      "options": ["4", "7", "-4", "-7"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the value of 2^5?",
+      "options": ["16", "24", "32", "64"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the median of the following set of numbers: 3, 5, 7, 9, 11?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the distance between the points (2, 3) and (5, 7)?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the value of the expression 5(3 + 2) - 4?",
+      "options": ["15", "20", "21", "25"],
+      "answer": 2,
+      "level": "intermediate"
+    },
+    {
+      "question": "If a rectangle has a length of 8 and a width of 3, what is its perimeter?",
+      "options": ["22", "24", "30", "26"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the quadratic formula used to find the roots of ax² + bx + c = 0?",
+      "options": ["x = (-b ± √(b² - 4ac)) / 2a", "x = (b ± √(b² - 4ac)) / 2a", "x = (b ± 4ac) / 2a", "x = (-b ± √(b² + 4ac)) / 2a"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is 25% expressed as a fraction?",
+      "options": ["1/2", "1/4", "1/5", "1/8"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the sum of the interior angles of a pentagon?",
+      "options": ["360 degrees", "540 degrees", "720 degrees", "180 degrees"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the value of sin(30 degrees)?",
+      "options": ["0", "0.5", "1", "√2/2"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "If a car travels 60 miles in 1 hour, how far will it travel in 3.5 hours?",
+      "options": ["180 miles", "210 miles", "240 miles", "250 miles"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the probability of rolling a sum of 7 with two six-sided dice?",
+      "options": ["1/6", "1/12", "1/36", "5/36"],
+      "answer": 3,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the circumference of a circle with a radius of 5?",
+      "options": ["10π", "5π", "25π", "15π"],
+      "answer": 0,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the value of 3x - 2 when x = 4?",
+      "options": ["10", "12", "14", "16"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the next term in the arithmetic sequence: 2, 5, 8, 11, ___?",
+      "options": ["12", "14", "15", "16"],
+      "answer": 1,
+      "level": "intermediate"
+    },
+    {
+      "question": "What is the value of the expression (4 + 2) × (3 - 1)?",
+      "options": ["8", "10", "12", "6"],
+      "answer": 0,
+      "level": "intermediate"
+    }
+  ],
+
+
+
+    "difficultQuestionsMath": [
+    {
+      "question": "What is the derivative of f(x) = 3x^3 - 4x^2 + 6?",
+      "options": ["3x^2 - 4", "9x^2 - 8x", "6x^2 - 8", "6x^3 - 4x"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "Solve for x: 2^x = 32.",
+      "options": ["4", "5", "6", "3"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the integral of f(x) = 2x with respect to x?",
+      "options": ["x^2 + C", "2x^2 + C", "x^2 + 2C", "2x + C"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the value of the limit lim (x → 0) (sin x)/x?",
+      "options": ["0", "1", "∞", "Undefined"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the result of the series 1 + 1/2 + 1/3 + ... + 1/n as n approaches infinity?",
+      "options": ["0", "1", "ln(n)", "∞"],
+      "answer": 3,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the solution to the equation x^2 - 4 = 0?",
+      "options": ["-4", "2", "4", "±2"],
+      "answer": 3,
+      "level": "difficult"
+    },
+    {
+      "question": "If the roots of the quadratic equation ax^2 + bx + c = 0 are real and distinct, what must be true about the discriminant?",
+      "options": ["b^2 - 4ac > 0", "b^2 - 4ac = 0", "b^2 - 4ac < 0", "None of the above"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the area of a triangle with vertices at (0, 0), (4, 0), and (0, 3)?",
+      "options": ["6", "12", "8", "3"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the value of the determinant of the matrix [[1, 2], [3, 4]]?",
+      "options": ["-2", "2", "4", "6"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the sum of the first n prime numbers?",
+      "options": ["n^2", "n^3", "2n", "Variable"],
+      "answer": 3,
+      "level": "difficult"
+    },
+    {
+      "question": "Find the third derivative of f(x) = x^5 - 5x^3 + 2x.",
+      "options": ["60x^2 - 30", "60x^3 - 30x", "60x^2", "30x^3"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "If A and B are events such that P(A) = 0.5 and P(B) = 0.3, what is P(A ∩ B) if A and B are independent?",
+      "options": ["0.15", "0.5", "0.8", "0.3"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the geometric interpretation of the complex number z = a + bi?",
+      "options": ["A point on the real line", "A point in the complex plane", "A point on the unit circle", "None of the above"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "Evaluate the integral ∫ (2x + 1) dx from 0 to 2.",
+      "options": ["4", "5", "6", "3"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "If the sequence a_n = 2n + 1, what is the value of a_10?",
+      "options": ["19", "21", "20", "22"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the Taylor series expansion of e^x at x=0?",
+      "options": ["1 + x + x^2/2 + x^3/6 + ...", "1 + x + x^2 + x^3/3 + ...", "x + x^2/2 + x^3/6 + ...", "x + x^2 + x^3/3 + ..."],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "What is the volume of a cylinder with radius r and height h?",
+      "options": ["πr^2h", "2πr^2h", "πr^2h^2", "2πrh"],
+      "answer": 0,
+      "level": "difficult"
+    },
+    {
+      "question": "In probability, what is the expected value of a random variable X that takes values 1, 2, and 3 with probabilities 0.2, 0.3, and 0.5, respectively?",
+      "options": ["1.6", "2.5", "2.2", "3.0"],
+      "answer": 1,
+      "level": "difficult"
+    },
+    {
+      "question": "Solve the system of equations: 2x + 3y = 6 and x - y = 2.",
+      "options": ["(0, 2)", "(2, 0)", "(1, 1)", "(3, 0)"],
+      "answer": 3,
+      "level": "difficult"
+    }
+  ]
+}

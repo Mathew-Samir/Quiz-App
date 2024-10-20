@@ -1,0 +1,39 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Mathematics - easy</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Mathematics Easy Level</h1>
+        <div id="quiz-container">
+            <div id="timer">Time Left: <span id="time">120</span>s</div>
+            <div id="question-container"></div>
+            <div id="controls">
+                <button id="submit-answer">Next</button>
+                <button id="draft-answer">Draft</button>
+            </div>
+        </div>
+        <div id="result-container" class="hidden">
+            <h2 id="result-text"></h2>
+            <button id="view-drafts">Answer Drafted Questions</button>
+            <button id="view-drafts" onclick="tryAgain()">Try Again With Random Question</button>
+        </div>
+        <div id="draft-container" class="hidden">
+            <h2>Drafted Questions</h2>
+            <div id="draft-questions-container"></div>
+            <button id="finish-drafts">Finish Drafts</button>
+        </div>
+    </div>
+    <script src="./js/script.js"></script>
+    <script>
+        quizApp.init('easyQuestionsMath');
+    </script>
+
+</body>
+
+</html>

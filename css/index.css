@@ -1,0 +1,164 @@
+:root {
+    --font-family: Arial, sans-serif;
+    --background-color: #f4f4f4;
+    --white: white;
+    --border-radius: 10px;
+    --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    --input-border-color: #ccc;
+    --input-focus-border-color: #5c9eff;
+    --button-background-color: #5c9eff;
+    --button-hover-background-color: #3b80d8;
+    --error-color: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* Change height to min-height for better responsiveness */
+    background-color: var(--background-color);
+}
+
+.header-img {
+    display: block;
+    max-width: 10em;
+    margin: 0 auto 10px;
+    /* Slightly increased margin for better spacing */
+}
+
+.login-container {
+    width: 90%;
+    /* Change width to 90% for better responsiveness */
+    max-width: 400px;
+    /* Maximum width to prevent it from becoming too wide */
+    padding: 20px;
+    background-color: var(--white);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--input-border-color);
+    border-radius: 5px;
+    outline: none;
+}
+
+input:focus {
+    border-color: var(--input-focus-border-color);
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: var(--button-background-color);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--button-hover-background-color);
+}
+
+.error-message {
+    color: var(--error-color);
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+
+.password-container {
+    position: relative;
+}
+
+.password-container input {
+    width: 100%;
+    padding-right: 40px;
+    /* Ensure space for the icon */
+}
+
+.password-container i {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 20px;
+    color: #888;
+}
+
+.password-container i:hover {
+    color: #333;
+    /* Change color on hover */
+}
+
+
+
+/* Responsive Media Queries */
+@media (max-width: 768px) {
+    .login-container {
+        padding: 15px;
+        /* Reduce padding on smaller screens */
+    }
+
+    h2 {
+        font-size: 1.5em;
+        /* Slightly reduce the size of the heading */
+    }
+
+    button {
+        font-size: 14px;
+        /* Reduce button text size */
+    }
+}
+
+@media (max-width: 480px) {
+    .header-img {
+        max-width: 8em;
+        /* Reduce the header image size for mobile */
+    }
+
+    .login-container {
+        padding: 10px;
+        /* Further reduce padding for mobile */
+    }
+
+    h2 {
+        font-size: 1.2em;
+        /* Further reduce heading size */
+    }
+
+    button {
+        font-size: 12px;
+        /* Further reduce button text size */
+        padding: 8px;
+        /* Adjust padding for buttons */
+    }
+}

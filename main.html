@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Image and welcome text -->
+        <header class="header">
+            <img src="./image/logo.png" alt="Quiz App" class="header-img">
+            <h1 class="welcome-text">Welcome to the Ultimate Quiz App</h1>
+            <p class="subtext">Challenge yourself with quizzes on Chemistry, Physics, and Mathematics!</p>
+        </header>
+
+        <!-- Quiz cards section -->
+        <section class="quiz-cards">
+            <!-- Chemistry Quiz Card -->
+            <div class="card">
+                <div class="card-content">
+                    <h2>Chemistry Quiz</h2>
+                    <p>Test your knowledge of the elements and reactions.</p>
+                    <div class="buttons">
+                        <button onclick="startQuiz('chemistry', 'easy')">Easy</button>
+                        <button onclick="startQuiz('chemistry', 'intermediate')">Intermediate</button>
+                        <button onclick="startQuiz('chemistry', 'difficult')">Difficult</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Physics Quiz Card -->
+            <div class="card">
+                <div class="card-content">
+                    <h2>Physics Quiz</h2>
+                    <p>Dive yourself in the world of forces, energy and the laws of physics.</p>
+                    <div class="buttons">
+                        <button onclick="startQuiz('physics', 'easy')">Easy</button>
+                        <button onclick="startQuiz('physics', 'intermediate')">Intermediate</button>
+                        <button onclick="startQuiz('physics', 'difficult')">Difficult</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Mathematics Quiz Card -->
+            <div class="card">
+                <div class="card-content">
+                    <h2>Mathematics Quiz</h2>
+                    <p>Challenge yourself with numbers and equations.</p>
+                    <div class="buttons">
+                        <button onclick="startQuiz('math', 'easy')">Easy</button>
+                        <button onclick="startQuiz('math', 'intermediate')">Intermediate</button>
+                        <button onclick="startQuiz('math', 'difficult')">Difficult</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

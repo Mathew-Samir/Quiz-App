@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/index.css">
+    <title>Login Form</title>
+</head>
+
+<body>
+    <div class="login-container">
+        <img src="./image/logo.png" alt="Quiz App" class="header-img">
+        <form id="loginForm" onsubmit="return validateLogin()">
+            <h2>Login</h2>
+            <div class="input-group">
+                <label for="username">Username</label>
+                <input type="text" id="username" name="username" placeholder="Enter your username" required>
+                <p id="username-error" class="error-message"></p>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <div class="password-container">
+                    <input type="password" id="password" name="password" placeholder="Enter your password" required>
+                    <i class="bx bx-hide" id="togglePassword"></i>
+                </div>
+                <p id="password-error" class="error-message"></p>
+            </div>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

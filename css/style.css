@@ -1,0 +1,143 @@
+/* Define CSS Variables */
+:root {
+    --primary-font: 'Arial', sans-serif;
+    --background-color: #f4f4f4;
+    --container-background: #ffffff;
+    --container-border-radius: 10px;
+    --container-shadow: rgba(0, 0, 0, 0.1);
+
+    --header-color: #FF5733;
+    --timer-color: #333;
+    --question-background: #e0f7fa;
+    --button-background: #007bff;
+    --button-hover-background: #0056b3;
+    --result-text-color: #4CAF50;
+    --drafts-button-background: #FF9800;
+    --drafts-button-hover-background: #F57C00;
+
+    --container-width: 80%;
+    --max-container-width: 900px;
+    --margin-top: 50px;
+    --padding: 20px;
+    --button-padding: 15px 30px;
+    --button-font-size: 1em;
+    --timer-font-size: 1.2em;
+    --question-font-size: 1.5em;
+    --header-font-size: 2.5em;
+}
+
+/* General Styles */
+body {
+    font-family: var(--primary-font);
+    background-color: var(--background-color);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: var(--container-width);
+    max-width: var(--max-container-width);
+    margin: var(--margin-top) auto;
+    padding: var(--padding);
+    background-color: var(--container-background);
+    border-radius: var(--container-border-radius);
+    box-shadow: 0 4px 20px var(--container-shadow);
+}
+
+h1 {
+    text-align: center;
+    color: var(--header-color);
+    font-size: var(--header-font-size);
+}
+
+#quiz-container,
+#result-container,
+#draft-container {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#timer {
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: var(--timer-font-size);
+    color: var(--timer-color);
+}
+
+#question-container {
+    font-size: var(--question-font-size);
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: var(--question-background);
+    border-radius: 5px;
+}
+
+#controls {
+    text-align: center;
+}
+
+button {
+    padding: var(--button-padding);
+    margin: 5px;
+    background-color: var(--button-background);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: var(--button-font-size);
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: var(--button-hover-background);
+}
+
+#result-text {
+    text-align: center;
+    font-size: 1.8em;
+    color: var(--result-text-color);
+}
+
+#view-drafts,
+#finish-drafts {
+    background-color: var(--drafts-button-background);
+}
+
+#view-drafts:hover,
+#finish-drafts:hover {
+    background-color: var(--drafts-button-hover-background);
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+        /* Full width on small screens */
+        padding: 10px;
+        /* Reduced padding */
+    }
+
+    h1 {
+        font-size: 2em;
+        /* Smaller header on mobile */
+    }
+
+    #timer {
+        font-size: 1em;
+        /* Smaller timer font on mobile */
+    }
+
+    #question-container {
+        font-size: 1.2em;
+        /* Smaller question font on mobile */
+    }
+
+    button {
+        padding: 10px;
+        /* Smaller button padding on mobile */
+        font-size: 0.9em;
+        /* Smaller button font size on mobile */
+    }
+}

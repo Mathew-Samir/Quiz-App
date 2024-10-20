@@ -1,0 +1,155 @@
+/* Define CSS Variables */
+:root {
+    --primary-font: 'Poppins', sans-serif;
+    --background-gradient: linear-gradient(135deg, #c8e3f8, #f0f4f8);
+    --header-color: #2c3e50;
+    --subtext-color: #7f8c8d;
+    --card-background: white;
+    --card-shadow: rgba(0, 0, 0, 0.1);
+    --card-title-color: #34495e;
+    --card-text-color: #95a5a6;
+    --button-text-color: white;
+    --button-hover-scale: 1.05;
+
+    /* Button colors */
+    --button-1-bg: linear-gradient(135deg, #2ecc71, #27ae60);
+    --button-2-bg: linear-gradient(135deg, #f39c12, #e67e22);
+    --button-3-bg: linear-gradient(135deg, #e74c3c, #c0392b);
+
+    /* Spacing */
+    --container-padding: 20px;
+    --card-padding: 30px 20px;
+    --card-border-radius: 15px;
+    --button-padding: 12px;
+    --gap: 10px;
+}
+
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--primary-font);
+    background: var(--background-gradient) no-repeat fixed;
+    width: 100%;
+    height: 100vh;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--container-padding);
+    text-align: center;
+}
+
+/* Header Section */
+.header {
+    margin-top: 40px;
+}
+
+.header-img {
+    max-width: 14em;
+    height: auto;
+}
+
+.welcome-text {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--header-color);
+}
+
+.subtext {
+    font-size: 1.2rem;
+    color: var(--subtext-color);
+    margin-top: 10px;
+}
+
+/* Quiz Cards Section */
+.quiz-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: var(--card-background);
+    border-radius: var(--card-border-radius);
+    box-shadow: 0 8px 24px var(--card-shadow);
+    width: 30%;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card-content {
+    padding: var(--card-padding);
+}
+
+.card h2 {
+    font-size: 1.8rem;
+    color: var(--card-title-color);
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 1rem;
+    color: var(--card-text-color);
+    margin-bottom: 20px;
+}
+
+/* Buttons inside cards */
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap);
+}
+
+button {
+    padding: var(--button-padding);
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    transform: scale(var(--button-hover-scale));
+}
+
+button:nth-child(1) {
+    background: var(--button-1-bg);
+    color: var(--button-text-color);
+}
+
+button:nth-child(2) {
+    background: var(--button-2-bg);
+    color: var(--button-text-color);
+}
+
+button:nth-child(3) {
+    background: var(--button-3-bg);
+    color: var(--button-text-color);
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .quiz-cards {
+        flex-direction: column;
+    }
+
+    .card {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+}
