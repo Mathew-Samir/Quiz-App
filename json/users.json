@@ -6,5 +6,9 @@
     {
         "username": "Career180",
         "password": "Career@180"
-    }
+    },
+    {
+        "username": "Admin",
+        "password": "Admin@123"
+    },
 ]
