@@ -20,6 +20,8 @@ This application is programmed using HTML, CSS, and JS. This application is a mu
   
 - Username: (**Career180**)    Password: (**Career@180**)
 
+- username: (**Admin**)        passwor": (**Admin@123**)
+
 ## Images
 
 
